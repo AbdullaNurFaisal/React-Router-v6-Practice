@@ -1,3 +1,23 @@
+React features in use: 
+Lazy Loading
+Context API
+
+Hooks:
+useState
+useNavigate
+useLocation
+useParams
+
+Router features:
+NavLink
+Link
+Outlet
+Navigate
+Routes
+Route
+BrowserRouter
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
