@@ -1,21 +1,5 @@
 React features in use: 
-Lazy Loading
-Context API
-
-Hooks:
-useState
-useNavigate
-useLocation
-useParams
-
-Router features:
-NavLink
-Link
-Outlet
-Navigate
-Routes
-Route
-BrowserRouter
+Lazy Loading, Context API,useState, useNavigate,useLocation,useParams,NavLink, Link, Outlet, Navigate, Routes, Route, BrowserRouter
 
 
 # Getting Started with Create React App
