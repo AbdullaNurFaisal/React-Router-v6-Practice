@@ -1,0 +1,19 @@
+.navbar {
+  background: rgb(157, 157, 172);
+  padding: 30px;
+
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+nav > a {
+  margin-right: 10px;
+
+}
+nav > a.active {
+  color: rgb(76, 141, 76);
+}
+.search-product {
+  margin: 10px;
+}
